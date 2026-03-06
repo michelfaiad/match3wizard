@@ -293,8 +293,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ffdf0725c0f8542badf6265b0e77ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Match3Wizard.BoardManager
-  piecePrefab: {fileID: 0}
-  normalSprites: []
+  piecePrefab: {fileID: 2996375543148864349, guid: f913fa0651bf9fd4387a21e6e575469c, type: 3}
+  normalSprites:
+  - {fileID: -7354105832101042887, guid: 70a8d89587b57be49be45f6d89703aa5, type: 3}
+  - {fileID: -2839962110004256505, guid: 9187bf285d718b74cbf904c79b2c3a21, type: 3}
   magicStoneSprites: []
   origin: {x: 0, y: 0}
   cellSize: 1
