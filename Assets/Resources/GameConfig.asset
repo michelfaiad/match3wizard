@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67900418cec9d7242885af0b03b09e23, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Match3Wizard.GameConfig
+  boardWidth: 8
+  boardHeight: 8
+  matchDelay: 0.08
+  dropSpeed: 10
+  firePct: 0.22
+  waterPct: 0.22
+  airPct: 0.22
+  earthPct: 0.22
+  lightPct: 0.12
+  mana3: 3
+  mana4: 5
+  mana5: 8
+  mana6: 12
+  stonesForMatch4: 1
+  stonesForMatch6: 2
+  manaCap: 99
+  lightCostPerElement: 15
+  spellCostFire: 20
+  spellCostWater: 18
+  spellCostAir: 18
+  spellCostEarth: 16
+  crystalsPerPieceSpell: 1
+  crystalsPerPieceCascade: 0.5
+  matchDuration: 90
+  spiritGoalFire: 500
+  spiritGoalWater: 500
+  spiritGoalAir: 500
+  spiritGoalEarth: 500
+  spiritGoalLight: 750
+  galleryPartCosts: 3200000064000000c80000005e010000f4010000
+  spellUpgradeCosts: 000000000a000000190000003200000064000000
